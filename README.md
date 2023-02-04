@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samith</h1>
 <h3 align="center">I am an iOS app Smelter and Robotics BlackSmith passionate about crafting beautiful products</h3>
 
-- 🔭 I’m currently working on [Incentivio](https://www.incentivio.com)
+- 🔭 I’m currently working on [Incentivio](https://www.incentivio.com) as an iOS Developer
 
 - 🌱 I’m currently learning **SwiftUI and ARKit**
 
