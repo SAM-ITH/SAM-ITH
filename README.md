@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [medium](https://samithwijesinghe.medium.com/about)
 
-- 💬 Ask me about **UIkit, Scenekit, SwiftUI and ARkit**
+- 💬 Ask me about **UIkit, Scenekit, SwiftUI and ARkit** or check my Digital brain 🧠[kowledge base](https://notes.samith.me)
 
 - 📄 Know about my experiences [Linkedin](https://lk.linkedin.com/in/samithwijesighe)
 
