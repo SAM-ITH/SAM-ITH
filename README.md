@@ -31,11 +31,11 @@
 <div> 
   <table>
     <td>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-ith&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&hide=jupyter%20notebook,julia,Cmake,Makefile,CSS,PHP"alt="samith" />
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-ith&show_icons=true&theme=tokyonight&title_color=ffffff&locale=en&layout=compact" alt="sam-ith" />
       </p>
     </td>
      <td>
-          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-ith&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="samith's Github Stats" />
+          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-ith&show_icons=true&theme=tokyonight&locale=en" alt="samith's Github Stats" />
        </p>
     </td>
   </table>
